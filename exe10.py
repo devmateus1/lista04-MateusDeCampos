@@ -6,5 +6,7 @@ if convidados <= 10:
     for pessoa in range(convidados):
         nomes = input("Qual nome do convidado: ")
         print(nomes, 'foi convidado para a festa')
+        print("Mateus De Campos Turkoco")
 elif convidados > 10:
     print("Muitas pessoas")        
+    print("Mateus De Campos Turkoco")

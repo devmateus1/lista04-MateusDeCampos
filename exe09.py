@@ -6,9 +6,10 @@ if direcao == 'cima':
     num1 = int(input("Digite um número : "))
     for i in range(num1 + 1):
         print(i)
+        print("Mateus De Campos Turkoco")
 elif direcao == 'baixo':
     num2 = int(input("Digite um número abaixo de 20: "))
     for j in range(num2 + 1):
         print(j) 
-else:
-    print("Número inválido")               
+        print("Mateus De Campos Turkoco")
+          

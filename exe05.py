@@ -3,3 +3,4 @@ num = int(input("Digite um número inteiro : "))
 for i in range(11):
     tabuada = num * i
     print(num ,"x",i,"=", tabuada)
+    print("Mateus De Campos Turkoco")

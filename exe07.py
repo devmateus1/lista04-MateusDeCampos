@@ -4,3 +4,7 @@ num = int(input("Digite um número inteiro : "))
 if num < 10:
     for i in range(num):
         print(nome)
+        print("Mateus De Campos Turkoco")
+else:
+    for i in range(3):
+        print("Numero muito alto")        
